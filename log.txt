@@ -1,0 +1,1871 @@
+console.log('this is loaded');
+
+exports.spotify = {
+  id: process.env.SPOTIFY_ID,
+  secret: process.env.SPOTIFY_SECRET
+};========================EVENT INFO========================
+0
+========================EVENT INFO========================
+0
+========================SONG INFO======================== 
+0
+Song Name: Who Do You Love
+Song Preview: https://p.scdn.co/mp3-preview/e3ef260cdfe18ac3e66226ce235843469ea69b87?cid=175df6706a454c47aef4beba4c29b1bc
+Album: World War Joy...Takeaway
+========================SONG INFO======================== 
+0
+Song Name: One Thing Right
+Song Preview: https://p.scdn.co/mp3-preview/86a860d6266e657a2a47b7c2266a9a98c1ba564d?cid=175df6706a454c47aef4beba4c29b1bc
+Album: One Thing Right
+========================SONG INFO======================== 
+0
+Song Name: Freddy Krueger (feat. Tee Grizzley)
+Song Preview: https://p.scdn.co/mp3-preview/eed3eb2c91c626ad23156b5a146f06769fd406c5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Freddy Krueger (feat. Tee Grizzley)
+========================SONG INFO======================== 
+0
+Song Name: Money to the Grave
+Song Preview: https://p.scdn.co/mp3-preview/ee2847c390ddba8389ea35d784a332eb6c58ca8c?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Move Along
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+0
+song name: Money to the Grave
+preview song: https://p.scdn.co/mp3-preview/ee2847c390ddba8389ea35d784a332eb6c58ca8c?cid=175df6706a454c47aef4beba4c29b1bc
+album: Move Along
+artist(s): Sale On 9
+*****************************
+**********SONG INFO*********
+1
+song name: Can't Take Your Money To The Grave
+preview song: https://p.scdn.co/mp3-preview/3656d7f32aad37795f49c3a92de947cb7545194f?cid=175df6706a454c47aef4beba4c29b1bc
+album: Sickness Amongst The Pure
+artist(s): Malicious Damage
+*****************************
+**********SONG INFO*********
+0
+song name: BULLETPROOF (feat. Jay 305)
+preview song: null
+album: STAY DANGEROUS
+artist(s): YG
+*****************************
+**********SONG INFO*********
+1
+song name: 305 To My City
+preview song: null
+album: Nothing Was The Same
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+2
+song name: 626/305*
+preview song: https://p.scdn.co/mp3-preview/99da6563e2a29789525f8bc5f7cfd4d9a611b6a1?cid=175df6706a454c47aef4beba4c29b1bc
+album: MISCREANT
+artist(s): Sueco the Child
+*****************************
+**********SONG INFO*********
+3
+song name: 626/305*
+preview song: https://p.scdn.co/mp3-preview/4f7cc0cf9bd39c1f7daba28bf188dbf602c1a070?cid=175df6706a454c47aef4beba4c29b1bc
+album: MISCREANT
+artist(s): Sueco the Child
+*****************************
+**********SONG INFO*********
+4
+song name: 305 To My City
+preview song: null
+album: Nothing Was The Same (Deluxe)
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+5
+song name: Pharaohs
+preview song: https://p.scdn.co/mp3-preview/0fe04225fe011dca7c4787ae9792decf76b9ed40?cid=175df6706a454c47aef4beba4c29b1bc
+album: Opm Presents: Young Nation, Vol. 2
+artist(s): Dom Kennedy
+*****************************
+**********SONG INFO*********
+6
+song name: Do It Big
+preview song: https://p.scdn.co/mp3-preview/029eecd6383720efac2bb68184506ced38fc7b47?cid=175df6706a454c47aef4beba4c29b1bc
+album: Opm Presents: Young Nation, Vol. 2
+artist(s): Jay 305
+*****************************
+**********SONG INFO*********
+7
+song name: Eric Wright (feat. Jay 305)
+preview song: https://p.scdn.co/mp3-preview/781422c0c90da03fa1511d03d88a3f0aa9567d9f?cid=175df6706a454c47aef4beba4c29b1bc
+album: Courtesy of Half-a-Mil
+artist(s): Dom Kennedy
+*****************************
+**********SONG INFO*********
+8
+song name: 305 Anthem
+preview song: https://p.scdn.co/mp3-preview/397ce75b7e775567722865f5113f054499f7b6aa?cid=175df6706a454c47aef4beba4c29b1bc
+album: M.I.A.M.I.
+artist(s): Lil Jon
+*****************************
+**********SONG INFO*********
+9
+song name: She Wish She Was
+preview song: null
+album: Still Brazy (Deluxe)
+artist(s): YG
+*****************************
+**********SONG INFO*********
+10
+song name: My Flag/Da Homies (feat. Ty Dolla $ign, Jay 305, AD, Mitch E-Slick, Joe Moses, RJ & Skeme)
+preview song: https://p.scdn.co/mp3-preview/3214695142ebf328a12a4902e81a0103194e4299?cid=175df6706a454c47aef4beba4c29b1bc
+album: The Documentary 2.5
+artist(s): The Game
+*****************************
+**********SONG INFO*********
+11
+song name: Bunkin' (feat. Jay 305 & T.I.)
+preview song: https://p.scdn.co/mp3-preview/b4a985d87a0bb5ce8ec05c6c1a2036e9649232f0?cid=175df6706a454c47aef4beba4c29b1bc
+album: Fan of A Fan The Album (Expanded Edition)
+artist(s): Chris Brown
+*****************************
+**********SONG INFO*********
+12
+song name: Late Night Aka Incomparable
+preview song: https://p.scdn.co/mp3-preview/4a1bffba10d895f53633cbeeb5c599b63e7035a6?cid=175df6706a454c47aef4beba4c29b1bc
+album: Volume Two
+artist(s): Dom Kennedy
+*****************************
+**********SONG INFO*********
+13
+song name: 305
+preview song: https://p.scdn.co/mp3-preview/acfa3c8efe7f657e321259653a5c3696a9f9087a?cid=175df6706a454c47aef4beba4c29b1bc
+album: Not Even Once
+artist(s): Approaching Nirvana
+*****************************
+**********SONG INFO*********
+14
+song name: 305
+preview song: https://p.scdn.co/mp3-preview/3bfdebab8edd162412400803fcab89408bf9bb7e?cid=175df6706a454c47aef4beba4c29b1bc
+album: 305
+artist(s): Dylan St. John
+*****************************
+**********SONG INFO*********
+15
+song name: Blame It On The Streets
+preview song: null
+album: Blame It On The Streets
+artist(s): YG
+*****************************
+**********SONG INFO*********
+16
+song name: Violin Sonata No. 22 in A Major, K. 305: I. Allegro di molto
+preview song: https://p.scdn.co/mp3-preview/17d1e6ad2799052565f4433b38c04ad916c4dd86?cid=175df6706a454c47aef4beba4c29b1bc
+album: Mozart: Violin Concertos Nos. 3, 4 & Violin Sonata No. 22
+artist(s): Wolfgang Amadeus Mozart
+*****************************
+**********SONG INFO*********
+17
+song name: Real Time
+preview song: https://p.scdn.co/mp3-preview/09ebba1a8777dec6982c71ff6e1447dad71e37af?cid=175df6706a454c47aef4beba4c29b1bc
+album: Opm Presents: Young Nation, Vol. 2
+artist(s): Jay 305
+*****************************
+**********SONG INFO*********
+18
+song name: No Cut
+preview song: https://p.scdn.co/mp3-preview/4b0fd80b8a872030f60c6a2c97bd4338fb53e9c6?cid=175df6706a454c47aef4beba4c29b1bc
+album: Opm Presents: Young Nation, Vol. 2
+artist(s): Jay 305
+*****************************
+**********SONG INFO*********
+19
+song name: Sweat It Out
+preview song: https://p.scdn.co/mp3-preview/8cc64de6bba4b16cbbcc6182bb95d6cc66177394?cid=175df6706a454c47aef4beba4c29b1bc
+album: Opm Presents: Young Nation, Vol. 2
+artist(s): Jay 305
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+========================SONG INFO======================== 
+0
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Hits--Chapter One
+========================SONG INFO======================== 
+0
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+========================================================= 
+========================SONG INFO======================== 
+1
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Millennium
+Artist(s): Backstreet Boys
+========================================================= 
+========================SONG INFO======================== 
+2
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Mick Jensen
+========================================================= 
+========================SONG INFO======================== 
+3
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Covers Part IV
+Artist(s): Anthem Lights
+========================================================= 
+========================SONG INFO======================== 
+4
+Song Name: I Want It That Way - Reimagined
+Song Preview: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way (Reimagined)
+Artist(s): Backstreet Boys
+========================================================= 
+========================SONG INFO======================== 
+5
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Poodle Hat
+Artist(s): "Weird Al" Yankovic
+========================================================= 
+========================SONG INFO======================== 
+6
+Song Name: I Want It That Way
+Song Preview: null
+Album: Punk Goes Pop
+Artist(s): Dynamite Boy
+========================================================= 
+========================SONG INFO======================== 
+7
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Under the Covers, Vol. 3
+Artist(s): Jess and Gabriel
+========================================================= 
+========================SONG INFO======================== 
+8
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Musicbox
+Artist(s): Nineties Legends
+========================================================= 
+========================SONG INFO======================== 
+9
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Beautiful Dreams
+Artist(s): Tyler and Mark
+========================================================= 
+========================SONG INFO======================== 
+10
+Song Name: I Want It That Way
+Song Preview: null
+Album: I Want It That Way
+Artist(s): Steel Panther
+========================================================= 
+========================SONG INFO======================== 
+11
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 90 Sweet 90s Hits!
+Artist(s): Backstreet Boys
+========================================================= 
+========================SONG INFO======================== 
+12
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Song Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s): Glee Cast
+========================================================= 
+========================SONG INFO======================== 
+13
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+Album: NKOTBSB
+Artist(s): Backstreet Boys
+========================================================= 
+========================SONG INFO======================== 
+14
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Nu Funk
+Artist(s): Scary Pockets
+========================================================= 
+========================SONG INFO======================== 
+15
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Cover Sessions, Vol. 2
+Artist(s): Boyce Avenue
+========================================================= 
+========================SONG INFO======================== 
+16
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Selfies on Kodachrome
+Artist(s): Scott Bradlee's Postmodern Jukebox
+========================================================= 
+========================SONG INFO======================== 
+17
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Boulevard You
+Artist(s): CaryLamb
+========================================================= 
+========================SONG INFO======================== 
+18
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Essential "Weird Al" Yankovic
+Artist(s): "Weird Al" Yankovic
+========================================================= 
+========================SONG INFO======================== 
+19
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Yshop
+========================================================= 
+====SONG INFO====
+0
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+========================================================= 
+====SONG INFO====
+1
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Millennium
+Artist(s): Backstreet Boys
+========================================================= 
+====SONG INFO====
+2
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Mick Jensen
+========================================================= 
+====SONG INFO====
+3
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Covers Part IV
+Artist(s): Anthem Lights
+========================================================= 
+====SONG INFO====
+4
+Song Name: I Want It That Way - Reimagined
+Song Preview: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way (Reimagined)
+Artist(s): Backstreet Boys
+========================================================= 
+====SONG INFO====
+5
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Poodle Hat
+Artist(s): "Weird Al" Yankovic
+========================================================= 
+====SONG INFO====
+6
+Song Name: I Want It That Way
+Song Preview: null
+Album: Punk Goes Pop
+Artist(s): Dynamite Boy
+========================================================= 
+====SONG INFO====
+7
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Under the Covers, Vol. 3
+Artist(s): Jess and Gabriel
+========================================================= 
+====SONG INFO====
+8
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Musicbox
+Artist(s): Nineties Legends
+========================================================= 
+====SONG INFO====
+9
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Beautiful Dreams
+Artist(s): Tyler and Mark
+========================================================= 
+====SONG INFO====
+10
+Song Name: I Want It That Way
+Song Preview: null
+Album: I Want It That Way
+Artist(s): Steel Panther
+========================================================= 
+====SONG INFO====
+11
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 90 Sweet 90s Hits!
+Artist(s): Backstreet Boys
+========================================================= 
+====SONG INFO====
+12
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Song Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s): Glee Cast
+========================================================= 
+====SONG INFO====
+13
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+Album: NKOTBSB
+Artist(s): Backstreet Boys
+========================================================= 
+====SONG INFO====
+14
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Nu Funk
+Artist(s): Scary Pockets
+========================================================= 
+====SONG INFO====
+15
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Cover Sessions, Vol. 2
+Artist(s): Boyce Avenue
+========================================================= 
+====SONG INFO====
+16
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Selfies on Kodachrome
+Artist(s): Scott Bradlee's Postmodern Jukebox
+========================================================= 
+====SONG INFO====
+17
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Boulevard You
+Artist(s): CaryLamb
+========================================================= 
+====SONG INFO====
+18
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Essential "Weird Al" Yankovic
+Artist(s): "Weird Al" Yankovic
+========================================================= 
+====SONG INFO====
+19
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Yshop
+========================================================= 
+====SONG INFO====
+0
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+1
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Millennium
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+2
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Mick Jensen
+================= 
+====SONG INFO====
+3
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Covers Part IV
+Artist(s): Anthem Lights
+================= 
+====SONG INFO====
+4
+Song Name: I Want It That Way - Reimagined
+Song Preview: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way (Reimagined)
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+5
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Poodle Hat
+Artist(s): "Weird Al" Yankovic
+================= 
+====SONG INFO====
+6
+Song Name: I Want It That Way
+Song Preview: null
+Album: Punk Goes Pop
+Artist(s): Dynamite Boy
+================= 
+====SONG INFO====
+7
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Under the Covers, Vol. 3
+Artist(s): Jess and Gabriel
+================= 
+====SONG INFO====
+8
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Musicbox
+Artist(s): Nineties Legends
+================= 
+====SONG INFO====
+9
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Beautiful Dreams
+Artist(s): Tyler and Mark
+================= 
+====SONG INFO====
+10
+Song Name: I Want It That Way
+Song Preview: null
+Album: I Want It That Way
+Artist(s): Steel Panther
+================= 
+====SONG INFO====
+11
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 90 Sweet 90s Hits!
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+12
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Song Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s): Glee Cast
+================= 
+====SONG INFO====
+13
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+Album: NKOTBSB
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+14
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Nu Funk
+Artist(s): Scary Pockets
+================= 
+====SONG INFO====
+15
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Cover Sessions, Vol. 2
+Artist(s): Boyce Avenue
+================= 
+====SONG INFO====
+16
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Selfies on Kodachrome
+Artist(s): Scott Bradlee's Postmodern Jukebox
+================= 
+====SONG INFO====
+17
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Boulevard You
+Artist(s): CaryLamb
+================= 
+====SONG INFO====
+18
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Essential "Weird Al" Yankovic
+Artist(s): "Weird Al" Yankovic
+================= 
+====SONG INFO====
+19
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Yshop
+================= 
+====SONG INFO====
+0
+Song Name: BULLETPROOF (feat. Jay 305)
+Song Preview: null
+Album: STAY DANGEROUS
+Artist(s): YG
+================= 
+====SONG INFO====
+1
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same
+Artist(s): Drake
+================= 
+====SONG INFO====
+2
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/99da6563e2a29789525f8bc5f7cfd4d9a611b6a1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+3
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/4f7cc0cf9bd39c1f7daba28bf188dbf602c1a070?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+4
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same (Deluxe)
+Artist(s): Drake
+================= 
+====SONG INFO====
+5
+Song Name: Pharaohs
+Song Preview: https://p.scdn.co/mp3-preview/0fe04225fe011dca7c4787ae9792decf76b9ed40?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+6
+Song Name: Do It Big
+Song Preview: https://p.scdn.co/mp3-preview/029eecd6383720efac2bb68184506ced38fc7b47?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+7
+Song Name: Eric Wright (feat. Jay 305)
+Song Preview: https://p.scdn.co/mp3-preview/781422c0c90da03fa1511d03d88a3f0aa9567d9f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Courtesy of Half-a-Mil
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+8
+Song Name: 305 Anthem
+Song Preview: https://p.scdn.co/mp3-preview/397ce75b7e775567722865f5113f054499f7b6aa?cid=175df6706a454c47aef4beba4c29b1bc
+Album: M.I.A.M.I.
+Artist(s): Lil Jon
+================= 
+====SONG INFO====
+9
+Song Name: She Wish She Was
+Song Preview: null
+Album: Still Brazy (Deluxe)
+Artist(s): YG
+================= 
+====SONG INFO====
+10
+Song Name: My Flag/Da Homies (feat. Ty Dolla $ign, Jay 305, AD, Mitch E-Slick, Joe Moses, RJ & Skeme)
+Song Preview: https://p.scdn.co/mp3-preview/3214695142ebf328a12a4902e81a0103194e4299?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Documentary 2.5
+Artist(s): The Game
+================= 
+====SONG INFO====
+11
+Song Name: Bunkin' (feat. Jay 305 & T.I.)
+Song Preview: https://p.scdn.co/mp3-preview/b4a985d87a0bb5ce8ec05c6c1a2036e9649232f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Fan of A Fan The Album (Expanded Edition)
+Artist(s): Chris Brown
+================= 
+====SONG INFO====
+12
+Song Name: Late Night Aka Incomparable
+Song Preview: https://p.scdn.co/mp3-preview/4a1bffba10d895f53633cbeeb5c599b63e7035a6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Volume Two
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+13
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/acfa3c8efe7f657e321259653a5c3696a9f9087a?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Not Even Once
+Artist(s): Approaching Nirvana
+================= 
+====SONG INFO====
+14
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/3bfdebab8edd162412400803fcab89408bf9bb7e?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 305
+Artist(s): Dylan St. John
+================= 
+====SONG INFO====
+15
+Song Name: Blame It On The Streets
+Song Preview: null
+Album: Blame It On The Streets
+Artist(s): YG
+================= 
+====SONG INFO====
+16
+Song Name: Violin Sonata No. 22 in A Major, K. 305: I. Allegro di molto
+Song Preview: https://p.scdn.co/mp3-preview/17d1e6ad2799052565f4433b38c04ad916c4dd86?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Mozart: Violin Concertos Nos. 3, 4 & Violin Sonata No. 22
+Artist(s): Wolfgang Amadeus Mozart
+================= 
+====SONG INFO====
+17
+Song Name: Real Time
+Song Preview: https://p.scdn.co/mp3-preview/09ebba1a8777dec6982c71ff6e1447dad71e37af?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+18
+Song Name: No Cut
+Song Preview: https://p.scdn.co/mp3-preview/4b0fd80b8a872030f60c6a2c97bd4338fb53e9c6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+19
+Song Name: Sweat It Out
+Song Preview: https://p.scdn.co/mp3-preview/8cc64de6bba4b16cbbcc6182bb95d6cc66177394?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+0
+Song Name: BULLETPROOF (feat. Jay 305)
+Song Preview: null
+Album: STAY DANGEROUS
+Artist(s): YG
+================= 
+====SONG INFO====
+1
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same
+Artist(s): Drake
+================= 
+====SONG INFO====
+2
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/99da6563e2a29789525f8bc5f7cfd4d9a611b6a1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+3
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/4f7cc0cf9bd39c1f7daba28bf188dbf602c1a070?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+4
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same (Deluxe)
+Artist(s): Drake
+================= 
+====SONG INFO====
+5
+Song Name: Pharaohs
+Song Preview: https://p.scdn.co/mp3-preview/0fe04225fe011dca7c4787ae9792decf76b9ed40?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+6
+Song Name: Do It Big
+Song Preview: https://p.scdn.co/mp3-preview/029eecd6383720efac2bb68184506ced38fc7b47?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+7
+Song Name: Eric Wright (feat. Jay 305)
+Song Preview: https://p.scdn.co/mp3-preview/781422c0c90da03fa1511d03d88a3f0aa9567d9f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Courtesy of Half-a-Mil
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+8
+Song Name: 305 Anthem
+Song Preview: https://p.scdn.co/mp3-preview/397ce75b7e775567722865f5113f054499f7b6aa?cid=175df6706a454c47aef4beba4c29b1bc
+Album: M.I.A.M.I.
+Artist(s): Lil Jon
+================= 
+====SONG INFO====
+9
+Song Name: She Wish She Was
+Song Preview: null
+Album: Still Brazy (Deluxe)
+Artist(s): YG
+================= 
+====SONG INFO====
+10
+Song Name: My Flag/Da Homies (feat. Ty Dolla $ign, Jay 305, AD, Mitch E-Slick, Joe Moses, RJ & Skeme)
+Song Preview: https://p.scdn.co/mp3-preview/3214695142ebf328a12a4902e81a0103194e4299?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Documentary 2.5
+Artist(s): The Game
+================= 
+====SONG INFO====
+11
+Song Name: Bunkin' (feat. Jay 305 & T.I.)
+Song Preview: https://p.scdn.co/mp3-preview/b4a985d87a0bb5ce8ec05c6c1a2036e9649232f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Fan of A Fan The Album (Expanded Edition)
+Artist(s): Chris Brown
+================= 
+====SONG INFO====
+12
+Song Name: Late Night Aka Incomparable
+Song Preview: https://p.scdn.co/mp3-preview/4a1bffba10d895f53633cbeeb5c599b63e7035a6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Volume Two
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+13
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/acfa3c8efe7f657e321259653a5c3696a9f9087a?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Not Even Once
+Artist(s): Approaching Nirvana
+================= 
+====SONG INFO====
+14
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/3bfdebab8edd162412400803fcab89408bf9bb7e?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 305
+Artist(s): Dylan St. John
+================= 
+====SONG INFO====
+15
+Song Name: Blame It On The Streets
+Song Preview: null
+Album: Blame It On The Streets
+Artist(s): YG
+================= 
+====SONG INFO====
+16
+Song Name: Violin Sonata No. 22 in A Major, K. 305: I. Allegro di molto
+Song Preview: https://p.scdn.co/mp3-preview/17d1e6ad2799052565f4433b38c04ad916c4dd86?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Mozart: Violin Concertos Nos. 3, 4 & Violin Sonata No. 22
+Artist(s): Wolfgang Amadeus Mozart
+================= 
+====SONG INFO====
+17
+Song Name: Real Time
+Song Preview: https://p.scdn.co/mp3-preview/09ebba1a8777dec6982c71ff6e1447dad71e37af?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+18
+Song Name: No Cut
+Song Preview: https://p.scdn.co/mp3-preview/4b0fd80b8a872030f60c6a2c97bd4338fb53e9c6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+19
+Song Name: Sweat It Out
+Song Preview: https://p.scdn.co/mp3-preview/8cc64de6bba4b16cbbcc6182bb95d6cc66177394?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+0
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+1
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Millennium
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+2
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Mick Jensen
+================= 
+====SONG INFO====
+3
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Covers Part IV
+Artist(s): Anthem Lights
+================= 
+====SONG INFO====
+4
+Song Name: I Want It That Way - Reimagined
+Song Preview: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way (Reimagined)
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+5
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Poodle Hat
+Artist(s): "Weird Al" Yankovic
+================= 
+====SONG INFO====
+6
+Song Name: I Want It That Way
+Song Preview: null
+Album: Punk Goes Pop
+Artist(s): Dynamite Boy
+================= 
+====SONG INFO====
+7
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Under the Covers, Vol. 3
+Artist(s): Jess and Gabriel
+================= 
+====SONG INFO====
+8
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Musicbox
+Artist(s): Nineties Legends
+================= 
+====SONG INFO====
+9
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Beautiful Dreams
+Artist(s): Tyler and Mark
+================= 
+====SONG INFO====
+10
+Song Name: I Want It That Way
+Song Preview: null
+Album: I Want It That Way
+Artist(s): Steel Panther
+================= 
+====SONG INFO====
+11
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 90 Sweet 90s Hits!
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+12
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Song Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s): Glee Cast
+================= 
+====SONG INFO====
+13
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+Album: NKOTBSB
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+14
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Nu Funk
+Artist(s): Scary Pockets
+================= 
+====SONG INFO====
+15
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Cover Sessions, Vol. 2
+Artist(s): Boyce Avenue
+================= 
+====SONG INFO====
+16
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Selfies on Kodachrome
+Artist(s): Scott Bradlee's Postmodern Jukebox
+================= 
+====SONG INFO====
+17
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Boulevard You
+Artist(s): CaryLamb
+================= 
+====SONG INFO====
+18
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Essential "Weird Al" Yankovic
+Artist(s): "Weird Al" Yankovic
+================= 
+====SONG INFO====
+19
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Yshop
+================= 
+====SONG INFO====
+0
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+1
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Millennium
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+2
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Mick Jensen
+================= 
+====SONG INFO====
+3
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Covers Part IV
+Artist(s): Anthem Lights
+================= 
+====SONG INFO====
+4
+Song Name: I Want It That Way - Reimagined
+Song Preview: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way (Reimagined)
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+5
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Poodle Hat
+Artist(s): "Weird Al" Yankovic
+================= 
+====SONG INFO====
+6
+Song Name: I Want It That Way
+Song Preview: null
+Album: Punk Goes Pop
+Artist(s): Dynamite Boy
+================= 
+====SONG INFO====
+7
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Under the Covers, Vol. 3
+Artist(s): Jess and Gabriel
+================= 
+====SONG INFO====
+8
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Musicbox
+Artist(s): Nineties Legends
+================= 
+====SONG INFO====
+9
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Beautiful Dreams
+Artist(s): Tyler and Mark
+================= 
+====SONG INFO====
+10
+Song Name: I Want It That Way
+Song Preview: null
+Album: I Want It That Way
+Artist(s): Steel Panther
+================= 
+====SONG INFO====
+11
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 90 Sweet 90s Hits!
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+12
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Song Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s): Glee Cast
+================= 
+====SONG INFO====
+13
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=175df6706a454c47aef4beba4c29b1bc
+Album: NKOTBSB
+Artist(s): Backstreet Boys
+================= 
+====SONG INFO====
+14
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Nu Funk
+Artist(s): Scary Pockets
+================= 
+====SONG INFO====
+15
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Cover Sessions, Vol. 2
+Artist(s): Boyce Avenue
+================= 
+====SONG INFO====
+16
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Selfies on Kodachrome
+Artist(s): Scott Bradlee's Postmodern Jukebox
+================= 
+====SONG INFO====
+17
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Boulevard You
+Artist(s): CaryLamb
+================= 
+====SONG INFO====
+18
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Song Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Essential "Weird Al" Yankovic
+Artist(s): "Weird Al" Yankovic
+================= 
+====SONG INFO====
+19
+Song Name: I Want It That Way
+Song Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=175df6706a454c47aef4beba4c29b1bc
+Album: I Want It That Way
+Artist(s): Yshop
+================= 
+====SONG INFO====
+0
+Song Name: BULLETPROOF (feat. Jay 305)
+Song Preview: null
+Album: STAY DANGEROUS
+Artist(s): YG
+================= 
+====SONG INFO====
+1
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same
+Artist(s): Drake
+================= 
+====SONG INFO====
+2
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/99da6563e2a29789525f8bc5f7cfd4d9a611b6a1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+3
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/4f7cc0cf9bd39c1f7daba28bf188dbf602c1a070?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+4
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same (Deluxe)
+Artist(s): Drake
+================= 
+====SONG INFO====
+5
+Song Name: Pharaohs
+Song Preview: https://p.scdn.co/mp3-preview/0fe04225fe011dca7c4787ae9792decf76b9ed40?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+6
+Song Name: Do It Big
+Song Preview: https://p.scdn.co/mp3-preview/029eecd6383720efac2bb68184506ced38fc7b47?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+7
+Song Name: Eric Wright (feat. Jay 305)
+Song Preview: https://p.scdn.co/mp3-preview/781422c0c90da03fa1511d03d88a3f0aa9567d9f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Courtesy of Half-a-Mil
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+8
+Song Name: 305 Anthem
+Song Preview: https://p.scdn.co/mp3-preview/397ce75b7e775567722865f5113f054499f7b6aa?cid=175df6706a454c47aef4beba4c29b1bc
+Album: M.I.A.M.I.
+Artist(s): Lil Jon
+================= 
+====SONG INFO====
+9
+Song Name: She Wish She Was
+Song Preview: null
+Album: Still Brazy (Deluxe)
+Artist(s): YG
+================= 
+====SONG INFO====
+10
+Song Name: My Flag/Da Homies (feat. Ty Dolla $ign, Jay 305, AD, Mitch E-Slick, Joe Moses, RJ & Skeme)
+Song Preview: https://p.scdn.co/mp3-preview/3214695142ebf328a12a4902e81a0103194e4299?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Documentary 2.5
+Artist(s): The Game
+================= 
+====SONG INFO====
+11
+Song Name: Bunkin' (feat. Jay 305 & T.I.)
+Song Preview: https://p.scdn.co/mp3-preview/b4a985d87a0bb5ce8ec05c6c1a2036e9649232f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Fan of A Fan The Album (Expanded Edition)
+Artist(s): Chris Brown
+================= 
+====SONG INFO====
+12
+Song Name: Late Night Aka Incomparable
+Song Preview: https://p.scdn.co/mp3-preview/4a1bffba10d895f53633cbeeb5c599b63e7035a6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Volume Two
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+13
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/acfa3c8efe7f657e321259653a5c3696a9f9087a?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Not Even Once
+Artist(s): Approaching Nirvana
+================= 
+====SONG INFO====
+14
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/3bfdebab8edd162412400803fcab89408bf9bb7e?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 305
+Artist(s): Dylan St. John
+================= 
+====SONG INFO====
+15
+Song Name: Blame It On The Streets
+Song Preview: null
+Album: Blame It On The Streets
+Artist(s): YG
+================= 
+====SONG INFO====
+16
+Song Name: Violin Sonata No. 22 in A Major, K. 305: I. Allegro di molto
+Song Preview: https://p.scdn.co/mp3-preview/17d1e6ad2799052565f4433b38c04ad916c4dd86?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Mozart: Violin Concertos Nos. 3, 4 & Violin Sonata No. 22
+Artist(s): Wolfgang Amadeus Mozart
+================= 
+====SONG INFO====
+17
+Song Name: Real Time
+Song Preview: https://p.scdn.co/mp3-preview/09ebba1a8777dec6982c71ff6e1447dad71e37af?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+18
+Song Name: No Cut
+Song Preview: https://p.scdn.co/mp3-preview/4b0fd80b8a872030f60c6a2c97bd4338fb53e9c6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+19
+Song Name: Sweat It Out
+Song Preview: https://p.scdn.co/mp3-preview/8cc64de6bba4b16cbbcc6182bb95d6cc66177394?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+0
+Song Name: BULLETPROOF (feat. Jay 305)
+Song Preview: null
+Album: STAY DANGEROUS
+Artist(s): YG
+================= 
+====SONG INFO====
+1
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same
+Artist(s): Drake
+================= 
+====SONG INFO====
+2
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/99da6563e2a29789525f8bc5f7cfd4d9a611b6a1?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+3
+Song Name: 626/305*
+Song Preview: https://p.scdn.co/mp3-preview/4f7cc0cf9bd39c1f7daba28bf188dbf602c1a070?cid=175df6706a454c47aef4beba4c29b1bc
+Album: MISCREANT
+Artist(s): Sueco the Child
+================= 
+====SONG INFO====
+4
+Song Name: 305 To My City
+Song Preview: null
+Album: Nothing Was The Same (Deluxe)
+Artist(s): Drake
+================= 
+====SONG INFO====
+5
+Song Name: Pharaohs
+Song Preview: https://p.scdn.co/mp3-preview/0fe04225fe011dca7c4787ae9792decf76b9ed40?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+6
+Song Name: Do It Big
+Song Preview: https://p.scdn.co/mp3-preview/029eecd6383720efac2bb68184506ced38fc7b47?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+7
+Song Name: Eric Wright (feat. Jay 305)
+Song Preview: https://p.scdn.co/mp3-preview/781422c0c90da03fa1511d03d88a3f0aa9567d9f?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Courtesy of Half-a-Mil
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+8
+Song Name: 305 Anthem
+Song Preview: https://p.scdn.co/mp3-preview/397ce75b7e775567722865f5113f054499f7b6aa?cid=175df6706a454c47aef4beba4c29b1bc
+Album: M.I.A.M.I.
+Artist(s): Lil Jon
+================= 
+====SONG INFO====
+9
+Song Name: She Wish She Was
+Song Preview: null
+Album: Still Brazy (Deluxe)
+Artist(s): YG
+================= 
+====SONG INFO====
+10
+Song Name: My Flag/Da Homies (feat. Ty Dolla $ign, Jay 305, AD, Mitch E-Slick, Joe Moses, RJ & Skeme)
+Song Preview: https://p.scdn.co/mp3-preview/3214695142ebf328a12a4902e81a0103194e4299?cid=175df6706a454c47aef4beba4c29b1bc
+Album: The Documentary 2.5
+Artist(s): The Game
+================= 
+====SONG INFO====
+11
+Song Name: Bunkin' (feat. Jay 305 & T.I.)
+Song Preview: https://p.scdn.co/mp3-preview/b4a985d87a0bb5ce8ec05c6c1a2036e9649232f0?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Fan of A Fan The Album (Expanded Edition)
+Artist(s): Chris Brown
+================= 
+====SONG INFO====
+12
+Song Name: Late Night Aka Incomparable
+Song Preview: https://p.scdn.co/mp3-preview/4a1bffba10d895f53633cbeeb5c599b63e7035a6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Volume Two
+Artist(s): Dom Kennedy
+================= 
+====SONG INFO====
+13
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/acfa3c8efe7f657e321259653a5c3696a9f9087a?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Not Even Once
+Artist(s): Approaching Nirvana
+================= 
+====SONG INFO====
+14
+Song Name: 305
+Song Preview: https://p.scdn.co/mp3-preview/3bfdebab8edd162412400803fcab89408bf9bb7e?cid=175df6706a454c47aef4beba4c29b1bc
+Album: 305
+Artist(s): Dylan St. John
+================= 
+====SONG INFO====
+15
+Song Name: Blame It On The Streets
+Song Preview: null
+Album: Blame It On The Streets
+Artist(s): YG
+================= 
+====SONG INFO====
+16
+Song Name: Violin Sonata No. 22 in A Major, K. 305: I. Allegro di molto
+Song Preview: https://p.scdn.co/mp3-preview/17d1e6ad2799052565f4433b38c04ad916c4dd86?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Mozart: Violin Concertos Nos. 3, 4 & Violin Sonata No. 22
+Artist(s): Wolfgang Amadeus Mozart
+================= 
+====SONG INFO====
+17
+Song Name: Real Time
+Song Preview: https://p.scdn.co/mp3-preview/09ebba1a8777dec6982c71ff6e1447dad71e37af?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+18
+Song Name: No Cut
+Song Preview: https://p.scdn.co/mp3-preview/4b0fd80b8a872030f60c6a2c97bd4338fb53e9c6?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 
+====SONG INFO====
+19
+Song Name: Sweat It Out
+Song Preview: https://p.scdn.co/mp3-preview/8cc64de6bba4b16cbbcc6182bb95d6cc66177394?cid=175df6706a454c47aef4beba4c29b1bc
+Album: Opm Presents: Young Nation, Vol. 2
+Artist(s): Jay 305
+================= 

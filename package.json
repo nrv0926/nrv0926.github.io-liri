@@ -1,0 +1,25 @@
+{
+  "name": "nrv0926.github.io-liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrv0926/nrv0926.github.io-liri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrv0926/nrv0926.github.io-liri/issues"
+  },
+  "homepage": "https://github.com/nrv0926/nrv0926.github.io-liri#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
